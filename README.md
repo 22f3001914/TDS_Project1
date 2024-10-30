@@ -1,1 +1,3 @@
-# TDS_Project1
+- This project scrapes GitHub users from Delhi with over 100 followers and their repositories using the GitHub API.
+- It was interesting to find that many high-followed users were heavily focused on a few popular programming languages.
+- A recommendation for developers is to work on trending languages and projects with good documentation to attract followers.
